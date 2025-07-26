@@ -111,17 +111,16 @@ me.say_hello()
 
 ```yaml
 currently_learning:
-  - "Advanced Deep Learning Architectures"
-  - "MLOps and Model Deployment"
-  - "Computer Vision Applications"
+  - "Deep Learning"
+  - "Data Structures and Alogorithms"
+  - "Data manipulation for insights"
 
 working_on:
-  - "AI-powered web applications"
-  - "Research in Natural Language Processing"
+  - "ML-powered web applications"
   - "Open source contributions"
 
 goals_2025:
-  - "Contribute to major ML libraries"
+  - "Real world solving project"
   - "Publish research papers"
   - "Build impactful AI solutions"
 ```
