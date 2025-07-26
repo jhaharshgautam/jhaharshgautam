@@ -149,8 +149,8 @@ goals_2025:
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/aarushrajoura](https://www.linkedin.com/in/aarush-rajoura-889549290?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BroHWHQjdTD666%2FeQRu%2BlkQ%3D%3D))
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aarushrajoura@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/__aarush_0305)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhaharshgautam@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/harsh_gautam_jha/)
 </div>
 
 ---
