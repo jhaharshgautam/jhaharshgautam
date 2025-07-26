@@ -1,7 +1,7 @@
 # 🚀 Welcome to My Digital Universe!
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Aarush+%F0%9F%91%8B;AI%2FML+Developer+%26+Researcher;Building+the+Future+with+Code;From+Delhi%2C+India+%F0%9F%87%AE%F0%9F%87%B3 alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Aarush+%F0%9F%91%8B;AI%2FML+Developer+%26+Researcher;Building+the+Future+with+Code;From+Delhi%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
 </div>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" />
@@ -12,12 +12,12 @@
 ```python
 class Developer:
     def __init__(self):
-        self.name = "Harsh Gautam Jha"
+        self.name = "Aarush Rajoura"
         self.location = "Delhi, India 🇮🇳"
-        self.role = "Software Developer and ML developer"
+        self.role = "AI/ML Developer & Researcher"
         self.languages = ["Python", "JavaScript", "C++", "C","HTML","CSS"]
         self.passion = "Building intelligent systems that solve real-world problems"
-        self.current_focus = "Deep Learning, AI , real world problems"
+        self.current_focus = "Deep Learning, Computer Vision, NLP, AI"
         self.fun_fact = "I debug code faster than I debug my life! 😄"
     
     def say_hello(self):
@@ -47,7 +47,7 @@ me.say_hello()
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
-### 💻 Web 
+### 💻 Web & Mobile Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
