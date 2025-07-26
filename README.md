@@ -136,10 +136,9 @@ goals_2025:
 
 </div>
 
-- 🔬 Love experimenting with cutting-edge AI models
-- 📚 Always reading the latest research papers
+- 🔬 Love extracting insights from data to help people make better decisions
 - 🎵 Code better with music on
-- ☕ Powered by coffee and curiosity
+- 😄 Solving real-world problems through software development
 - 🌟 Believe in the power of open source
 
 ---
