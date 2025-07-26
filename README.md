@@ -99,13 +99,7 @@ me.say_hello()
 
 ---
 
-## 📈 Activity Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aarush-Rajoura&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</div>
-
----
 
 ## 🌟 What I'm Up To
 
