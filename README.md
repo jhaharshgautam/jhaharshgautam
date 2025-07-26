@@ -12,7 +12,7 @@
 ```python
 class Developer:
     def __init__(self):
-        self.name = "Aarush Rajoura"
+        self.name = "Harsh Gautam Jha"
         self.location = "Delhi, India 🇮🇳"
         self.role = "AI/ML Developer & Researcher"
         self.languages = ["Python", "JavaScript", "C++", "C","HTML","CSS"]
