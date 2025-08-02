@@ -153,7 +153,7 @@ goals_2025:
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=Aarush-Rajoura&color=blueviolet&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=jhaharshgautam&color=blueviolet&style=flat-square&label=Profile+Views)
 [![GitHub followers](https://img.shields.io/github/followers/Aarush-Rajoura?style=social)](https://github.com/jhaharshgautam)
 
 </div>
