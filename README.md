@@ -161,5 +161,5 @@ goals_2025:
 ---
 
 <div align="center">
-  <i>⭐ From <a href="https://github.com/jhaharshgautam">Harsh-Gauta-Jha</a> with ❤️</i>
+  <i>⭐ From <a href="https://github.com/jhaharshgautam">Harsh-Gautam-Jha</a> with ❤️</i>
 </div>
