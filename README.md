@@ -86,10 +86,10 @@ me.say_hello()
 ## 🎨 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/Aarush-Rajoura/CodeRepair">
+  <a href="https://github.com/jhaharshgautam/CodeRepair">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aarush-Rajoura&repo=CodeRepair&theme=radical" />
   </a>
-  <a href="https://github.com/Aarush-Rajoura/Smart_home_energy_optimization">
+  <a href="https://github.com/jhaharshgautam/Smart_home_energy_optimization">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aarush-Rajoura&repo=Smart_home_energy_optimization&theme=radical" />
   </a>
 </div>
