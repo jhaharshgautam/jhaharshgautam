@@ -90,7 +90,7 @@ me.say_hello()
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhaharshgautam&repo=CodeRepair&theme=radical" />
   </a>
   <a href="https://github.com/jhaharshgautam/Smart-Home-Energy-Management-and-Optimisation-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhaharshgautam&repo=Smart_home_energy_optimization&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhaharshgautam&repo=Smart-Home-Energy-Management-and-Optimisation-System&theme=radical" />
   </a>
 </div>
 
