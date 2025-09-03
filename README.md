@@ -87,7 +87,7 @@ me.say_hello()
 
 <div align="center">
   <a href="https://github.com/jhaharshgautam/Breast-Cancer-Detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhaharshgautam&repo=CodeRepair&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhaharshgautam&repo=Breast-Cancer-Detection&theme=radical" />
   </a>
   <a href="https://github.com/jhaharshgautam/Smart-Home-Energy-Management-and-Optimisation-System">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhaharshgautam&repo=Smart-Home-Energy-Management-and-Optimisation-System&theme=radical" />
