@@ -86,11 +86,11 @@ me.say_hello()
 ## 🎨 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/jhaharshgautam/CodeRepair">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aarush-Rajoura&repo=CodeRepair&theme=radical" />
+  <a href="https://github.com/jhaharshgautam/Breast-Cancer-Detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhaharshgautam&repo=CodeRepair&theme=radical" />
   </a>
-  <a href="https://github.com/jhaharshgautam/Smart_home_energy_optimization">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aarush-Rajoura&repo=Smart_home_energy_optimization&theme=radical" />
+  <a href="https://github.com/jhaharshgautam/Smart-Home-Energy-Management-and-Optimisation-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhaharshgautam&repo=Smart_home_energy_optimization&theme=radical" />
   </a>
 </div>
 
